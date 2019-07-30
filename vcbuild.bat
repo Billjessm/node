@@ -18,7 +18,7 @@ cd %~dp0
 @rem Process arguments.
 set config=Release
 set target=Build
-set target_arch=x64
+set target_arch=x86
 set ltcg=
 set target_env=
 set noprojgen=
